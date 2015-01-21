@@ -1,3 +1,3 @@
-### Doctrine Events Custom Behaviour
+### Doctrine Events Custom Behavior
 
-https://www.trisoft.ro/blog/10-doctrine-events-custom-behaviour
+https://www.trisoft.ro/blog/10-doctrine-events-custom-behavior
